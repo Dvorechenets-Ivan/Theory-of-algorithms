@@ -1,0 +1,14 @@
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\bin\Debug\net8.0\Laba 3 TA.exe
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\bin\Debug\net8.0\Laba 3 TA.deps.json
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\bin\Debug\net8.0\Laba 3 TA.runtimeconfig.json
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\bin\Debug\net8.0\Laba 3 TA.dll
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\bin\Debug\net8.0\Laba 3 TA.pdb
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.AssemblyInfoInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.AssemblyInfo.cs
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.dll
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\refint\Laba 3 TA.dll
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.pdb
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\Laba 3 TA.genruntimeconfig.cache
+C:\Users\Fanera\Desktop\Ваня\Laba 3 TA\obj\Debug\net8.0\ref\Laba 3 TA.dll

@@ -1,0 +1,14 @@
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\bin\Debug\net8.0\Laba 2 TA.exe
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\bin\Debug\net8.0\Laba 2 TA.deps.json
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\bin\Debug\net8.0\Laba 2 TA.runtimeconfig.json
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\bin\Debug\net8.0\Laba 2 TA.dll
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\bin\Debug\net8.0\Laba 2 TA.pdb
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.AssemblyInfoInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.AssemblyInfo.cs
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.dll
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\refint\Laba 2 TA.dll
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.pdb
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\Laba 2 TA.genruntimeconfig.cache
+C:\Users\Fanera\Desktop\Ваня\Laba 2 TA\obj\Debug\net8.0\ref\Laba 2 TA.dll
